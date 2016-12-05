@@ -1,0 +1,9 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/net/CompactEndpointSerializationHelper;0;1;1;8;5;1;0;1;14;8;1;0;4;0.75;57;0;0;0;0.31;0;0;10.2
+org/apache/cassandra/net/Header;0;3;2;58;9;1;0;5;10;36;3;2;1;1.13;58;1;2;0;0.31;0;0;5
+org/apache/cassandra/net/IncomingTcpConnection;0;5;2;28;5;2;0;3;6;10;0;3;2;1.25;34;0.75;0;0.94;0.4;0;0;5
+org/apache/cassandra/net/Message;0;2;2;12;14;1;0;66;30;47;61;5;12;0.46;186;0.5;1;0;0.32;0;0;12
+org/apache/cassandra/net/MessagingService;1;7;3;141;46;1;0;23;47;1035;3;20;40;1.02;302;0.69;4;0;0.13;0;0;5
+org/apache/cassandra/net/MessagingServiceMBean;0;2;1;10;10;1;0;2;10;45;2;0;10;2;10;0;0;0;1;0;0;0
+org/apache/cassandra/net/OutboundTcpConnection;0;6;3;300;12;2;0;6;13;66;2;5;6;1.09;80;1;2;0.85;0.25;0;0;5
+org/apache/cassandra/net/OutboundTcpConnectionPool;0;1;1;61;8;1;0;10;26;14;2;9;2;0.67;213;0.67;3;0;0.42;0;0;24.88

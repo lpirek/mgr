@@ -1,0 +1,7 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/tools/ClusterCmd;0;3;1;29;12;1;0;4;13;66;0;4;8;1.09;80;1;1;0;0.40;0;0;5
+org/apache/cassandra/tools/NodeCmd;3;26;4;1882;17;1;0;6;18;136;0;6;10;1.06;109;1;6;0;0.22;0;0;5
+org/apache/cassandra/tools/NodeProbe;0;19;4;234;61;1;0;11;62;1830;4;7;60;1.02;380;0.86;3;0;0.26;0;0;5
+org/apache/cassandra/tools/SSTableExport;3;16;3;724;12;1;0;7;13;66;0;7;6;1.09;78;1;0;0;0.21;0;0;5
+org/apache/cassandra/tools/SSTableImport;2;8;2;483;11;1;0;8;12;55;0;8;5;1.10;75;1;0;0;0.17;0;0;5
+org/apache/cassandra/tools/SchemaTool;0;2;1;11;3;1;0;2;13;3;0;2;2;2;77;0;0;0;0.33;0;0;24.67

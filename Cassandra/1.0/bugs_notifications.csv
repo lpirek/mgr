@@ -1,0 +1,5 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/notifications/INotification;0;1;1;21;0;1;0;4;0;0;4;0;0;2;0;0;0;0;0;0;0;0
+org/apache/cassandra/notifications/INotificationConsumer;0;1;1;21;1;1;0;3;1;0;2;1;1;2;1;0;0;0;1;0;0;0
+org/apache/cassandra/notifications/SSTableAddedNotification;0;1;1;21;1;1;0;2;2;0;0;2;1;2;8;0;1;0;1;0;0;6
+org/apache/cassandra/notifications/SSTableListChangedNotification;0;1;1;21;1;1;0;1;2;0;0;1;1;2;12;0;0;0;1;0;0;9

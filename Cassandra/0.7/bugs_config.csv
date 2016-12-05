@@ -1,0 +1,7 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/config/CFMetaData;6;25;5;565;45;1;0;31;46;990;23;8;42;1.02;310;0.40;9;0;0.10;1;1;5
+org/apache/cassandra/config/ColumnDefinition;2;9;3;158;17;1;0;8;18;136;3;5;17;1.06;106;0.75;1;0;0.14;1;1;5
+org/apache/cassandra/config/Config;0;11;3;27;1;1;0;6;6;0;2;4;1;2;196;0;4;0;1;0;0;137
+org/apache/cassandra/config/Converter;0;1;1;11;5;1;0;3;6;10;0;3;2;1.25;31;1;1;0;0.25;0;0;5
+org/apache/cassandra/config/DatabaseDescriptor;4;31;4;286;95;1;0;33;96;4465;16;17;93;1.01;588;0.89;9;0;0.03;0;0;5
+org/apache/cassandra/config/KSMetaData;0;5;3;42;8;1;0;13;9;28;11;2;8;1.14;53;0.20;0;0;0.22;1;1;5

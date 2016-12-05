@@ -1,0 +1,8 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/cli/CliClient;7;34;6;675;80;1;0;17;81;3160;1;16;9;1.01;490;1;2;0;0.14;0;0;5
+org/apache/cassandra/cli/CliCommandHelp;0;1;1;0;1;1;0;0;2;0;0;0;1;2;6;0;0;0;1;0;0;3
+org/apache/cassandra/cli/CliCompiler;1;1;1;2;9;1;0;1;10;36;0;1;9;2;54;0;0;0;0.31;0;0;5
+org/apache/cassandra/cli/CliCompleter;0;1;1;2;2;1;0;1;3;1;1;0;1;2;14;1;0;0;1;0;0;5
+org/apache/cassandra/cli/CliMain;0;2;2;22;9;1;0;4;10;36;0;4;7;1.13;60;0.67;3;0;0.13;0;0;5
+org/apache/cassandra/cli/CliUserHelp;0;2;2;400;1;1;0;1;2;0;1;0;1;2;7;0;0;0;1;0;0;3
+org/apache/cassandra/cli/CliUtils;0;1;1;71;5;1;0;2;6;10;0;2;5;2;30;0;0;0;0.33;0;0;5

@@ -1,0 +1,7 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/thrift/CassandraDaemon;0;1;1;7;5;0;0;4;6;10;1;3;3;1.25;37;0.86;2;0;0.5;0;0;5
+org/apache/cassandra/thrift/CassandraServer;1;9;4;132;53;1;0;27;54;1378;0;27;36;1.02;325;0.86;1;0;0.13;0;0;5
+org/apache/cassandra/thrift/CustomTThreadPoolServer;0;1;1;13;2;1;0;2;3;1;1;1;2;2;16;1;0;0;1;0;0;5
+org/apache/cassandra/thrift/TCustomServerSocket;1;3;3;101;5;1;0;3;6;10;0;3;4;1.25;35;1;0;0;0.4;0;0;5
+org/apache/cassandra/thrift/TCustomSocket;0;1;1;0;9;1;0;3;10;36;1;2;8;1.13;59;1;0;0;0.42;0;0;5
+org/apache/cassandra/thrift/ThriftValidation;1;6;5;54;28;1;0;18;29;378;0;18;24;1.04;169;1;0;0;0.09;0;0;5

@@ -1,0 +1,22 @@
+Class Name;Number of Bugs;Number of Revisions;Number of Commiters;Number of Modified Lines;WMC;DIT;NOC;CBO;RFC;LCOM;CA;CE;NPM;LCOM3;LOC;DAM;MOA;MFA;CAM;IC;CBM;AMC
+org/apache/cassandra/utils/BigLongArray;0;1;1;0;4;1;0;1;8;0;1;0;4;0.4;155;0.8;0;0;0.75;0;0;36.5
+org/apache/cassandra/utils/BloomFilter;0;2;1;21;12;0;0;8;13;66;5;4;8;1.09;76;0.5;2;0;0.28;0;0;5
+org/apache/cassandra/utils/BloomFilterSerializer;0;2;1;38;7;1;0;5;18;21;3;3;7;2;138;0;0;0;0.43;0;0;18.71
+org/apache/cassandra/utils/ByteBufferUtil;0;2;2;16;35;1;0;42;36;595;42;0;33;1.03;211;0;0;0;0.12;0;0;5
+org/apache/cassandra/utils/CLibrary;0;3;1;182;14;1;0;4;15;91;2;2;8;1.08;98;1;0;0;0.13;0;0;5
+org/apache/cassandra/utils/EstimatedHistogram;0;1;1;9;14;1;0;6;29;0;6;1;11;0.62;350;0.25;1;0;0.26;0;0;23.71
+org/apache/cassandra/utils/ExpiringMap;0;1;1;39;13;1;0;4;14;78;1;3;13;1.08;83;1;0;0;0.44;0;0;5
+org/apache/cassandra/utils/FBUtilities;0;7;4;157;41;1;0;34;42;820;23;11;41;1.03;253;0.71;0;0;0.05;0;0;5
+org/apache/cassandra/utils/Hex;0;1;1;0;6;1;0;3;19;9;3;0;5;0.73;283;0.67;0;0;0.2;0;0;45.67
+org/apache/cassandra/utils/IMergeIterator;0;2;2;21;1;1;0;3;1;0;2;1;1;2;1;0;0;0;1;0;0;0
+org/apache/cassandra/utils/IntervalTree/Interval;1;2;1;36;6;1;0;2;7;15;1;1;6;1.2;41;0;0;0;0.5;0;0;5
+org/apache/cassandra/utils/IntervalTree/IntervalNode;1;2;1;29;5;1;0;2;6;10;1;1;5;1.25;38;0.13;2;0;1;0;0;5
+org/apache/cassandra/utils/IntervalTree/IntervalTree;0;1;1;21;6;1;0;3;15;0;1;2;5;0;160;1;1;0;0.46;0;0;25.5
+org/apache/cassandra/utils/LegacyBloomFilter;0;1;1;11;15;0;0;4;16;105;2;3;10;1.07;94;0.75;1;0;0.24;0;0;5
+org/apache/cassandra/utils/LegacyBloomFilterSerializer;0;1;1;19;4;1;0;2;12;6;2;1;4;2;40;0;0;0;0.5;0;0;9
+org/apache/cassandra/utils/MergeIterator;0;3;2;167;4;1;3;6;5;6;4;2;3;1.33;26;1;1;0;0.5;0;0;5
+org/apache/cassandra/utils/MerkleTree;0;2;2;46;22;1;0;13;23;231;7;9;14;1.05;144;0.42;4;0;0.21;0;0;5
+org/apache/cassandra/utils/obs/OpenBitSet;0;2;1;418;47;1;0;3;55;27;2;1;45;0.7;1710;0.8;0;0;0.25;1;1;35.28
+org/apache/cassandra/utils/SlabAllocator;0;1;1;35;3;0;0;4;4;3;1;3;2;1.5;23;1;0;0;0.67;0;0;5
+org/apache/cassandra/utils/UUIDGen;0;2;1;27;16;1;0;8;48;90;7;1;8;0.84;390;0.83;1;0;0.18;0;0;23
+org/apache/cassandra/utils/WrappedRunnable;0;2;2;10;3;1;9;10;5;3;9;1;2;2;14;0;0;0;1;0;0;3.67
